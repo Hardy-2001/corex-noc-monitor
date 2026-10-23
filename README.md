@@ -351,5 +351,5 @@ Its key architectural advantage is that **the independent ping-monitoring compon
 
 **Focus areas:** Network Engineering · Python · Network Monitoring · Automation · AI Integration · Software Development
 
-*FOCUS NOC MONITOR is an independently developed application that integrates with PRTG. It is not an official PRTG product.*
+*COREX NOC MONITOR is an independently developed application that integrates with PRTG. It is not an official PRTG product.*
 
